@@ -1,20 +1,14 @@
-  <h2>📈 Stats and Activity</h2>
+  <h2 align="center">Hello there! I am Mahbub 👋</h2>
 
-<details>
-<summary>Top Languages</summary>
+## 📈 My GitHub Stats
 
-<p><img width="494" height="275" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KaziMahbuburRahman&show_icons=true&locale=en&layout=compact" alt="Top Languages" loading="eager" /></p>
+### GitHub Stars
 
-</details>
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
+
 ### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<details>
-<summary>GitHub Stars</summary>
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api?username=KaziMahbuburRahman&show_icons=true&locale=en" alt="GitHub Stars" /></p>
-
-</details>
 
 <h3>⚡ Recent GitHub Activity</h3>
 
