@@ -4,11 +4,11 @@
 
 ### GitHub Stars
 
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=atapas&show_icons=true&theme=radical)
+![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=KaziMahbuburRahman&show_icons=true&theme=radical)
 
 ### Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atapas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaziMahbuburRahman&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3>⚡ Recent GitHub Activity</h3>
 
