@@ -5,11 +5,11 @@
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I'm currently working on **Web Development**
 
-- 🌱 I’m currently learning **Redux**
+- 🌱 I'm currently learning **Redux**
 
-- 👯 I’m looking to collaborate on **Open Source**
+- 👯 I'm looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
@@ -19,13 +19,13 @@
 
 ### Connect with me:
 
-[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/906/906377.png" />][telegram]
-[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="TechHelpBD.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="filter: invert(1)"/>][website]
+[<img align="left" alt="Kazi Mahbubur Rahman | Facebook" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/facebook.svg" style="filter: invert(1)"/>][facebook]
+[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/youtube.svg" style="filter: invert(1)"/>][youtube]
+[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" style="filter: invert(1)"/>][twitter]
+[<img align="left" alt="Kazi Mahbubur Rahman | Telegram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/telegram.svg" style="filter: invert(1)"/>][telegram]
+[<img align="left" alt="nahidhassanbulbul | LinkedIn" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" style="filter: invert(1)"/>][linkedin]
+[<img align="left" alt="Kazi Mahbubur Rahman | Instagram" width="22px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/instagram.svg" style="filter: invert(1)"/>][instagram]
 
 <br />
 
