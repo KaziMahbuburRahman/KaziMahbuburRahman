@@ -1,5 +1,23 @@
   <h2 align="center">Hello there! I am Mahbub 👋</h2>
 
+<div align="center">
+  <p>Senior Software Engineer | React Native Expert | Tech Lead</p>
+  <p>🌟 8+ years of experience in mobile and web development</p>
+</div>
+
+## 🔧 Technologies & Tools
+- **Mobile:** React Native, iOS (Swift), Android (Kotlin/Java)
+- **Web:** React.js, Next.js, Node.js, Express.js
+- **Languages:** JavaScript/TypeScript, Python, C++
+- **Cloud:** AWS, Firebase, Google Cloud Platform
+- **Tools:** Git, Docker, Jenkins, Jira
+
+## 🌟 Professional Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/kazi-mahbubur-rahman)
+- 🌐 [Portfolio](https://kazimahbuburrahman.com)
+- 📝 [Blog](https://medium.com/@kazimahbuburrahman)
+- 📺 [YouTube](https://www.youtube.com/c/TechHelpBangladesh)
+
 ## 📈 My GitHub Stats
 
 ### GitHub Stars
