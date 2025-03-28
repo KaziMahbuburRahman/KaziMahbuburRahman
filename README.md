@@ -4,7 +4,7 @@
 
 ### GitHub Stars
 
-![Tapas's Github Stats](https://github-readme-stats.vercel.app/api?username=KaziMahbuburRahman&show_icons=true&theme=radical)
+![Mahbub's Github Stats](https://github-readme-stats.vercel.app/api?username=KaziMahbuburRahman&show_icons=true&theme=tokyonight)
 
 ### Top Languages
 
