@@ -10,12 +10,6 @@
 </div>
 
 
-## 🌟 Professional Links
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahbubdev)
-- 🌐 [Portfolio](https://mahbub.techhelpbd.com)
-- 📺 [YouTube](https://www.youtube.com/c/TechHelpBangladesh)
-
 ## 📈 My GitHub Stats
 
 ### GitHub Stars
