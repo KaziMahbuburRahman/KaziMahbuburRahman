@@ -1,21 +1,19 @@
   <h2 align="center">Hello there! I am Mahbub 👋</h2>
 
 <div align="center">
-  <p>Senior Software Engineer | React Native Expert | Tech Lead</p>
-  <p>🌟 8+ years of experience in mobile and web development</p>
+  <p>
+    I am a passionate Full Stack Software Engineer focused on building scalable web applications.
+    With expertise in both front-end and back-end development, I create robust solutions
+    that solve real business problems. I love collaborating with teams and staying
+    current with modern technologies to deliver high-quality software.
+  </p>
 </div>
 
-## 🔧 Technologies & Tools
-- **Mobile:** React Native, iOS (Swift), Android (Kotlin/Java)
-- **Web:** React.js, Next.js, Node.js, Express.js
-- **Languages:** JavaScript/TypeScript, Python, C++
-- **Cloud:** AWS, Firebase, Google Cloud Platform
-- **Tools:** Git, Docker, Jenkins, Jira
 
 ## 🌟 Professional Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/kazi-mahbubur-rahman)
-- 🌐 [Portfolio](https://kazimahbuburrahman.com)
-- 📝 [Blog](https://medium.com/@kazimahbuburrahman)
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahbubdev)
+- 🌐 [Portfolio](https://mahbub.techhelpbd.com)
 - 📺 [YouTube](https://www.youtube.com/c/TechHelpBangladesh)
 
 ## 📈 My GitHub Stats
@@ -43,12 +41,14 @@
 
   <!-- prettier-ignore-start -->
 <!-- BEGIN YOUTUBE-CARDS -->
+
 [![How to Fix Disabled 'Submit New Form' Button in Google AdSense Tax Form | English Tutorial](https://ytcards.demolab.com/?id=yoI2p1NxNqw&title=How+to+Fix+Disabled+%27Submit+New+Form%27+Button+in+Google+AdSense+Tax+Form+%7C+English+Tutorial&lang=en&timestamp=1740748937&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Fix Disabled 'Submit New Form' Button in Google AdSense Tax Form | English Tutorial")](https://www.youtube.com/watch?v=yoI2p1NxNqw)
 [![How to Fix Disabled 'Submit New Form' Button in Google AdSense Tax Form | Bangla Tutorial](https://ytcards.demolab.com/?id=ALAqt9zrFT8&title=How+to+Fix+Disabled+%27Submit+New+Form%27+Button+in+Google+AdSense+Tax+Form+%7C+Bangla+Tutorial&lang=en&timestamp=1740308213&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Fix Disabled 'Submit New Form' Button in Google AdSense Tax Form | Bangla Tutorial")](https://www.youtube.com/watch?v=ALAqt9zrFT8)
 [![Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.](https://ytcards.demolab.com/?id=h7vJ-WHgZnw&title=Unchecked+runtime.lastError%3A+Could+not+establish+connection.+Receiving+end+does+not+exist.&lang=en&timestamp=1735839065&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unchecked runtime.lastError: Could not establish connection. Receiving end does not exist.")](https://www.youtube.com/watch?v=h7vJ-WHgZnw)
 [![DOWNLOAD Multiple WhatsApp Images at ONCE like a Pro!](https://ytcards.demolab.com/?id=vIrG9fdCAM4&title=DOWNLOAD+Multiple+WhatsApp+Images+at+ONCE+like+a+Pro%21&lang=en&timestamp=1731122593&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "DOWNLOAD Multiple WhatsApp Images at ONCE like a Pro!")](https://www.youtube.com/watch?v=vIrG9fdCAM4)
 [![Finally got my RedotPay card 😽](https://ytcards.demolab.com/?id=o--dz11zaWg&title=Finally+got+my+RedotPay+card+%F0%9F%98%BD&lang=en&timestamp=1730216518&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Finally got my RedotPay card 😽")](https://www.youtube.com/watch?v=o--dz11zaWg)
 [![Free Virtual Visa Card In Bangladesh | How To Get RedotPay Card For Free | How to get a FREE Visa](https://ytcards.demolab.com/?id=4qtaqTckRFU&title=Free+Virtual+Visa+Card+In+Bangladesh+%7C+How+To+Get+RedotPay+Card+For+Free+%7C+How+to+get+a+FREE+Visa&lang=en&timestamp=1730214150&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Free Virtual Visa Card In Bangladesh | How To Get RedotPay Card For Free | How to get a FREE Visa")](https://www.youtube.com/watch?v=4qtaqTckRFU)
+
 <!-- END YOUTUBE-CARDS -->
 <!-- prettier-ignore-end -->
 
