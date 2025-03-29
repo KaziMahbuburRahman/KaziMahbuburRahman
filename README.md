@@ -24,7 +24,7 @@
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/KaziMahbuburRahman/C-Programming/pull/1) in [KaziMahbuburRahman/C-Programming](https://github.com/KaziMahbuburRahman/C-Programming)
+1. 🎉 Merged PR [#2](https://github.com/KaziMahbuburRahman/pni-builders/pull/2) in [KaziMahbuburRahman/pni-builders](https://github.com/KaziMahbuburRahman/pni-builders)
 2. 🗣 Commented on [#6665](https://github.com/expo/expo/issues/6665#issuecomment-2002363514) in [expo/expo](https://github.com/expo/expo)
 3. 🗣 Commented on [#1374](https://github.com/react-native-webview/react-native-webview/issues/1374#issuecomment-2002363079) in [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview)
 4. 🗣 Commented on [#21198](https://github.com/expo/expo/issues/21198#issuecomment-1997944746) in [expo/expo](https://github.com/expo/expo)
